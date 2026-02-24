@@ -59,18 +59,12 @@ Oracle
 O SGBD funciona como uma interface entre o usuário e o banco de dados.
 
 ## 3. Conceitos Fundamentais
-3.1 Banco de Dados
+```
+Banco de Dados: Um conjunto organizado de dados armazenados eletronicamente.
 
-Um conjunto organizado de dados armazenados eletronicamente.
+Tabelas: Estruturas que armazenam os dados em formato de linhas e colunas.
 
-3.2 Tabelas
+Colunas(Campos): Representam os atributos das informações.
 
-Estruturas que armazenam os dados em formato de linhas e colunas.
-
-3.3 Colunas (Campos)
-
-Representam os atributos das informações.
-
-3.4 Linhas (Registros)
-
-Cada linha representa um registro único dentro da tabela.
+Linhas (Registros): Cada linha representa um registro único dentro da tabela.
+```
