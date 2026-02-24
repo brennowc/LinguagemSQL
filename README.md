@@ -1,29 +1,24 @@
 # Aprendizados em Aula SQL
-Introdução
-1.1 O que é SQL?
+
+##1.1 O que é SQL?
 
 SQL (Structured Query Language) é a linguagem padrão utilizada para consultar, manipular e gerenciar dados em bancos de dados relacionais.
 
 É utilizada para:
 
+```markdown
 Consultar dados
-
 Inserir registros
-
 Atualizar informações
-
 Deletar dados
-
 Criar e modificar estruturas de tabelas
-
 Gerenciar permissões de acesso
+```
 
 Em resumo:
-
 SQL é a linguagem que permite conversar com bancos de dados.
 
 1.2 Por que aprender SQL?
-
 Aprender SQL é essencial para qualquer profissional que trabalhe com dados.
 
 🚀 Principais motivos:
@@ -75,7 +70,7 @@ Oracle
 
 O SGBD funciona como uma interface entre o usuário e o banco de dados.
 
-🧩 3. Conceitos Fundamentais
+## 3. Conceitos Fundamentais
 3.1 Banco de Dados
 
 Um conjunto organizado de dados armazenados eletronicamente.
@@ -91,11 +86,3 @@ Representam os atributos das informações.
 3.4 Linhas (Registros)
 
 Cada linha representa um registro único dentro da tabela.
-
-3.5 Chave Primária (Primary Key)
-
-Campo que identifica unicamente cada registro.
-
-3.6 Chave Estrangeira (Foreign Key)
-
-Campo que cria relacionamento entre tabelas.
