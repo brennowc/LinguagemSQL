@@ -1,6 +1,6 @@
 # Aprendizados em Aula SQL
 
-##1.1 O que é SQL?
+## 1.1 O que é SQL?
 
 SQL (Structured Query Language) é a linguagem padrão utilizada para consultar, manipular e gerenciar dados em bancos de dados relacionais.
 
@@ -54,7 +54,7 @@ Plataformas de CRM
 
 Bancos de dados corporativos
 
-🗄️ 2. Sistema de Gerenciamento de Banco de Dados (SGBD)
+## 2. Sistema de Gerenciamento de Banco de Dados (SGBD)
 
 Um SGBD (Sistema de Gerenciamento de Banco de Dados) é o software responsável por armazenar, organizar e permitir o acesso aos dados.
 
